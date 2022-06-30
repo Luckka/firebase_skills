@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249575887718",
+    "project_id": "dw-fire-flutter",
+    "storage_bucket": "dw-fire-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249575887718:android:d0f96eeadf6e4505842ea7",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249575887718-oj09941jm9jvbekpfvidgrv7iraq4l7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaplDFYawgjiimYWo3wDa69MJsNB7igRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249575887718-oj09941jm9jvbekpfvidgrv7iraq4l7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
